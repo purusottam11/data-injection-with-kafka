@@ -1,0 +1,256 @@
+productId,productName,category,subcategory,brand,description,price,discountPercentage,finalPrice,averageRating,reviewCount,stockQuantity,inStock,color,size,viewCount,purchaseCount,wishlistCount,isPrimeEligible
+PROD0000000,Modern Educational 515,Books,Educational,Penguin,High-quality Books product. Educational with excellent features for daily use.,79.2,20,63.36,4.3,89,10,True,Multi,L,28,40,11,True
+PROD0000001,Classic Gym Equipment 476,Sports_Fitness,Gym_Equipment,Decathlon,High-quality Sports_Fitness product. Gym Equipment with excellent features for daily use.,406.77,0,406.77,3.6,80,50,True,Red,XL,41,34,2,True
+PROD0000002,Smart Decor 262,Home_Kitchen,Decor,IKEA,High-quality Home_Kitchen product. Decor with excellent features for daily use.,565.86,0,565.86,3.1,148,100,True,NA,NA,202,1,1,True
+PROD0000003,Classic Gym Equipment 161,Sports_Fitness,Gym_Equipment,Nike,High-quality Sports_Fitness product. Gym Equipment with excellent features for daily use.,692.25,20,553.8,2.6,177,10,True,Red,L,309,17,4,True
+PROD0000004,Smart Yoga 397,Sports_Fitness,Yoga,Nike,High-quality Sports_Fitness product. Yoga with excellent features for daily use.,1659.28,10,1493.35,3.9,33,10,True,Blue,XL,49,30,13,False
+PROD0000005,Smart Mens Wear 516,Fashion,Mens_Wear,Zara,High-quality Fashion product. Mens Wear with excellent features for daily use.,24532.82,20,19626.26,3.3,7,0,False,Red,NA,305,20,46,False
+PROD0000006,Elite Furniture 693,Home_Kitchen,Furniture,IKEA,High-quality Home_Kitchen product. Furniture with excellent features for daily use.,3491.19,20,2792.95,2.5,2,10,True,Blue,NA,103,26,25,True
+PROD0000007,Classic Furniture 187,Home_Kitchen,Furniture,IKEA,High-quality Home_Kitchen product. Furniture with excellent features for daily use.,13468.01,10,12121.21,2.8,36,100,True,Black,S,40,11,8,True
+PROD0000008,Premium Appliances 729,Home_Kitchen,Appliances,Bosch,High-quality Home_Kitchen product. Appliances with excellent features for daily use.,4671.83,20,3737.46,2.7,69,50,True,Multi,XL,141,3,2,False
+PROD0000009,Classic Yoga 197,Sports_Fitness,Yoga,Nike,High-quality Sports_Fitness product. Yoga with excellent features for daily use.,1871.42,20,1497.14,4.2,106,500,True,White,S,609,47,29,True
+PROD0000010,Pro Educational 412,Books,Educational,Penguin,High-quality Books product. Educational with excellent features for daily use.,3861.87,20,3089.5,4.4,38,100,True,Red,XL,937,31,33,True
+PROD0000011,Pro Bedding 218,Home_Kitchen,Bedding,IKEA,High-quality Home_Kitchen product. Bedding with excellent features for daily use.,1962.64,0,1962.64,3.6,90,50,True,Multi,L,256,36,5,True
+PROD0000012,Classic Outdoor 497,Sports_Fitness,Outdoor,Decathlon,High-quality Sports_Fitness product. Outdoor with excellent features for daily use.,2869.41,10,2582.47,4.4,57,10,True,Multi,NA,46,10,71,False
+PROD0000013,Elite Footwear 165,Fashion,Footwear,Nike,High-quality Fashion product. Footwear with excellent features for daily use.,2567.59,30,1797.31,2.1,74,50,True,Multi,S,100,7,7,False
+PROD0000014,Premium Fiction 200,Books,Fiction,HarperCollins,High-quality Books product. Fiction with excellent features for daily use.,926.24,10,833.62,4.8,7,50,True,White,L,187,19,3,True
+PROD0000015,Pro Footwear 852,Fashion,Footwear,Levis,High-quality Fashion product. Footwear with excellent features for daily use.,225.83,10,203.25,4.8,59,50,True,White,L,184,13,100,True
+PROD0000016,Modern Fiction 483,Books,Fiction,Penguin,High-quality Books product. Fiction with excellent features for daily use.,189.84,10,170.86,2.9,48,0,False,Blue,XL,195,15,11,False
+PROD0000017,Smart Outdoor 651,Sports_Fitness,Outdoor,Nike,High-quality Sports_Fitness product. Outdoor with excellent features for daily use.,502.44,30,351.71,3.1,48,10,True,Multi,S,102,13,6,True
+PROD0000018,Classic Smartphones 507,Electronics,Smartphones,OnePlus,High-quality Electronics product. Smartphones with excellent features for daily use.,521.46,20,417.17,3.8,34,100,True,Blue,L,147,53,72,True
+PROD0000019,Elite Fiction 629,Books,Fiction,HarperCollins,High-quality Books product. Fiction with excellent features for daily use.,671.04,30,469.73,3.9,11,50,True,Red,L,66,31,16,True
+PROD0000020,Modern Footwear 623,Fashion,Footwear,Levis,High-quality Fashion product. Footwear with excellent features for daily use.,18697.4,0,18697.4,3.2,0,0,False,Blue,M,266,21,4,True
+PROD0000021,Elite Gym Equipment 110,Sports_Fitness,Gym_Equipment,Decathlon,High-quality Sports_Fitness product. Gym Equipment with excellent features for daily use.,6999.17,30,4899.42,2.8,22,500,True,Multi,M,266,157,54,False
+PROD0000022,Modern Non Fiction 138,Books,Non_Fiction,Penguin,High-quality Books product. Non Fiction with excellent features for daily use.,27688.68,30,19382.08,2.1,68,500,True,NA,S,120,68,9,True
+PROD0000023,Pro Headphones 586,Electronics,Headphones,Samsung,High-quality Electronics product. Headphones with excellent features for daily use.,1738.98,10,1565.08,3.9,83,10,True,White,NA,40,41,0,False
+PROD0000024,Modern Cameras 566,Electronics,Cameras,Sony,High-quality Electronics product. Cameras with excellent features for daily use.,305.73,20,244.58,3.2,67,0,False,Multi,S,252,12,54,False
+PROD0000025,Smart Decor 242,Home_Kitchen,Decor,Bosch,High-quality Home_Kitchen product. Decor with excellent features for daily use.,1557.03,10,1401.33,3.6,38,100,True,White,XL,140,46,46,False
+PROD0000026,Smart Appliances 781,Home_Kitchen,Appliances,Bosch,High-quality Home_Kitchen product. Appliances with excellent features for daily use.,804.21,20,643.37,3.5,26,500,True,NA,M,146,44,6,True
+PROD0000027,Modern Mens Wear 731,Fashion,Mens_Wear,Nike,High-quality Fashion product. Mens Wear with excellent features for daily use.,8586.42,10,7727.78,3.8,120,10,True,NA,XL,181,20,3,True
+PROD0000028,Classic Educational 861,Books,Educational,Penguin,High-quality Books product. Educational with excellent features for daily use.,13599.2,30,9519.44,3.8,136,100,True,NA,M,100,6,5,True
+PROD0000029,Modern Non Fiction 849,Books,Non_Fiction,Penguin,High-quality Books product. Non Fiction with excellent features for daily use.,215.97,10,194.37,1.4,6,100,True,White,S,236,3,16,True
+PROD0000030,Modern Appliances 908,Home_Kitchen,Appliances,IKEA,High-quality Home_Kitchen product. Appliances with excellent features for daily use.,6415.71,10,5774.14,3.4,9,10,True,Red,S,430,14,2,False
+PROD0000031,Premium Non Fiction 451,Books,Non_Fiction,HarperCollins,High-quality Books product. Non Fiction with excellent features for daily use.,7200.29,10,6480.26,2.8,102,50,True,Red,L,19,31,72,True
+PROD0000032,Smart Non Fiction 903,Books,Non_Fiction,HarperCollins,High-quality Books product. Non Fiction with excellent features for daily use.,12433.23,0,12433.23,3.3,9,10,True,Blue,NA,267,20,9,False
+PROD0000033,Pro Laptops 247,Electronics,Laptops,Sony,High-quality Electronics product. Laptops with excellent features for daily use.,5998.67,10,5398.8,3.4,138,0,False,White,XL,533,16,3,True
+PROD0000034,Smart Decor 440,Home_Kitchen,Decor,IKEA,High-quality Home_Kitchen product. Decor with excellent features for daily use.,77.79,10,70.01,1.8,4,500,True,Multi,NA,33,9,46,True
+PROD0000035,Smart Yoga 288,Sports_Fitness,Yoga,Reebok,High-quality Sports_Fitness product. Yoga with excellent features for daily use.,3841.45,0,3841.45,2.3,10,10,True,Blue,S,415,51,79,True
+PROD0000036,Elite Furniture 849,Home_Kitchen,Furniture,Bosch,High-quality Home_Kitchen product. Furniture with excellent features for daily use.,3170.21,10,2853.19,4.1,51,50,True,Red,M,236,32,4,True
+PROD0000037,Premium Yoga 838,Sports_Fitness,Yoga,Nike,High-quality Sports_Fitness product. Yoga with excellent features for daily use.,1248.27,30,873.79,4.4,7,0,False,NA,XL,187,26,1,False
+PROD0000038,Elite Cameras 772,Electronics,Cameras,Apple,High-quality Electronics product. Cameras with excellent features for daily use.,6559.18,30,4591.43,4.1,26,100,True,White,NA,39,45,45,False
+PROD0000039,Classic Womens Wear 878,Fashion,Womens_Wear,Zara,High-quality Fashion product. Womens Wear with excellent features for daily use.,690.72,0,690.72,4.2,62,10,True,Multi,L,577,19,6,True
+PROD0000040,Premium Non Fiction 594,Books,Non_Fiction,HarperCollins,High-quality Books product. Non Fiction with excellent features for daily use.,362.42,20,289.94,3.7,68,500,True,Multi,L,141,22,20,True
+PROD0000041,Smart Cameras 972,Electronics,Cameras,Apple,High-quality Electronics product. Cameras with excellent features for daily use.,2326.11,10,2093.5,3.9,17,500,True,Red,M,109,36,2,True
+PROD0000042,Pro Educational 179,Books,Educational,HarperCollins,High-quality Books product. Educational with excellent features for daily use.,399.75,10,359.78,3.6,2,50,True,Blue,NA,487,23,10,True
+PROD0000043,Smart Mens Wear 289,Fashion,Mens_Wear,Adidas,High-quality Fashion product. Mens Wear with excellent features for daily use.,1520.25,0,1520.25,2.8,48,500,True,White,S,196,12,46,True
+PROD0000044,Elite Mens Wear 433,Fashion,Mens_Wear,Levis,High-quality Fashion product. Mens Wear with excellent features for daily use.,6468.95,0,6468.95,3.8,46,500,True,White,M,155,31,1,False
+PROD0000045,Pro Headphones 233,Electronics,Headphones,Sony,High-quality Electronics product. Headphones with excellent features for daily use.,1199.95,0,1199.95,1.9,27,50,True,Multi,XL,15,12,6,True
+PROD0000046,Smart Mens Wear 944,Fashion,Mens_Wear,Adidas,High-quality Fashion product. Mens Wear with excellent features for daily use.,230.26,30,161.18,4.8,5,0,False,White,NA,455,10,3,True
+PROD0000047,Classic Yoga 414,Sports_Fitness,Yoga,Decathlon,High-quality Sports_Fitness product. Yoga with excellent features for daily use.,2120.84,0,2120.84,3.2,50,0,False,Blue,XL,84,86,12,False
+PROD0000048,Smart Footwear 255,Fashion,Footwear,Adidas,High-quality Fashion product. Footwear with excellent features for daily use.,1191.72,10,1072.55,3.5,135,0,False,Multi,L,194,6,19,True
+PROD0000049,Smart Educational 184,Books,Educational,HarperCollins,High-quality Books product. Educational with excellent features for daily use.,1356.93,0,1356.93,4.6,6,10,True,NA,XL,15,1,19,True
+PROD0000050,Classic Non Fiction 224,Books,Non_Fiction,HarperCollins,High-quality Books product. Non Fiction with excellent features for daily use.,3188.0,20,2550.4,4.6,110,100,True,Multi,L,148,45,0,True
+PROD0000051,Modern Fiction 109,Books,Fiction,HarperCollins,High-quality Books product. Fiction with excellent features for daily use.,17169.51,0,17169.51,3.0,9,100,True,Multi,NA,107,80,2,False
+PROD0000052,Smart Fiction 828,Books,Fiction,Penguin,High-quality Books product. Fiction with excellent features for daily use.,1390.57,0,1390.57,2.5,24,50,True,Red,L,175,62,4,True
+PROD0000053,Premium Yoga 531,Sports_Fitness,Yoga,Decathlon,High-quality Sports_Fitness product. Yoga with excellent features for daily use.,321.16,10,289.04,4.5,78,10,True,Blue,XL,15,4,25,False
+PROD0000054,Pro Decor 100,Home_Kitchen,Decor,Bosch,High-quality Home_Kitchen product. Decor with excellent features for daily use.,1516.41,10,1364.77,2.9,35,50,True,White,S,149,128,2,True
+PROD0000055,Premium Cameras 255,Electronics,Cameras,OnePlus,High-quality Electronics product. Cameras with excellent features for daily use.,352.96,0,352.96,4.0,65,0,False,Blue,NA,35,28,5,False
+PROD0000056,Modern Educational 408,Books,Educational,HarperCollins,High-quality Books product. Educational with excellent features for daily use.,1473.1,30,1031.17,1.1,45,100,True,White,XL,162,7,32,True
+PROD0000057,Modern Footwear 880,Fashion,Footwear,Adidas,High-quality Fashion product. Footwear with excellent features for daily use.,12713.24,10,11441.92,2.3,19,0,False,Blue,M,388,0,3,True
+PROD0000058,Smart Fiction 253,Books,Fiction,HarperCollins,High-quality Books product. Fiction with excellent features for daily use.,1107.19,10,996.47,4.5,0,0,False,Red,S,38,18,1,True
+PROD0000059,Elite Mens Wear 527,Fashion,Mens_Wear,Nike,High-quality Fashion product. Mens Wear with excellent features for daily use.,189.62,0,189.62,2.7,26,10,True,NA,XL,158,19,8,True
+PROD0000060,Elite Mens Wear 905,Fashion,Mens_Wear,Adidas,High-quality Fashion product. Mens Wear with excellent features for daily use.,32765.43,0,32765.43,3.1,1,0,False,Multi,XL,525,169,32,False
+PROD0000061,Premium Educational 754,Books,Educational,Penguin,High-quality Books product. Educational with excellent features for daily use.,861.07,10,774.96,2.0,55,50,True,Black,NA,30,68,54,True
+PROD0000062,Premium Yoga 413,Sports_Fitness,Yoga,Reebok,High-quality Sports_Fitness product. Yoga with excellent features for daily use.,13000.15,20,10400.12,4.8,40,100,True,Black,L,349,35,39,True
+PROD0000063,Pro Mens Wear 174,Fashion,Mens_Wear,Zara,High-quality Fashion product. Mens Wear with excellent features for daily use.,320.23,30,224.16,4.5,22,100,True,Black,NA,2,0,4,True
+PROD0000064,Pro Accessories 838,Fashion,Accessories,Zara,High-quality Fashion product. Accessories with excellent features for daily use.,21632.34,30,15142.64,4.0,112,50,True,Black,L,77,21,17,True
+PROD0000065,Elite Educational 512,Books,Educational,HarperCollins,High-quality Books product. Educational with excellent features for daily use.,449.97,30,314.98,2.1,25,0,False,Blue,L,698,62,44,True
+PROD0000066,Modern Mens Wear 444,Fashion,Mens_Wear,Nike,High-quality Fashion product. Mens Wear with excellent features for daily use.,5810.59,10,5229.53,2.9,29,500,True,Red,M,128,31,15,False
+PROD0000067,Premium Footwear 196,Fashion,Footwear,Levis,High-quality Fashion product. Footwear with excellent features for daily use.,50777.19,0,50777.19,3.4,43,0,False,Blue,M,246,26,1,True
+PROD0000068,Modern Fiction 729,Books,Fiction,HarperCollins,High-quality Books product. Fiction with excellent features for daily use.,5745.72,0,5745.72,3.5,7,50,True,Black,XL,359,44,12,False
+PROD0000069,Modern Non Fiction 511,Books,Non_Fiction,Penguin,High-quality Books product. Non Fiction with excellent features for daily use.,1045.69,20,836.55,4.6,1,50,True,Blue,NA,207,76,30,False
+PROD0000070,Smart Headphones 389,Electronics,Headphones,Samsung,High-quality Electronics product. Headphones with excellent features for daily use.,4646.45,20,3717.16,4.1,106,50,True,Multi,NA,392,38,12,False
+PROD0000071,Elite Yoga 391,Sports_Fitness,Yoga,Decathlon,High-quality Sports_Fitness product. Yoga with excellent features for daily use.,52.93,0,52.93,4.7,52,10,True,Blue,M,15,17,3,True
+PROD0000072,Smart Outdoor 920,Sports_Fitness,Outdoor,Decathlon,High-quality Sports_Fitness product. Outdoor with excellent features for daily use.,2716.34,30,1901.44,1.5,21,100,True,Blue,M,411,4,3,True
+PROD0000073,Pro Womens Wear 166,Fashion,Womens_Wear,Nike,High-quality Fashion product. Womens Wear with excellent features for daily use.,611.11,20,488.89,3.6,14,500,True,NA,S,18,38,5,True
+PROD0000074,Premium Yoga 800,Sports_Fitness,Yoga,Reebok,High-quality Sports_Fitness product. Yoga with excellent features for daily use.,856.8,20,685.44,4.3,2,100,True,White,L,301,20,97,True
+PROD0000075,Smart Womens Wear 437,Fashion,Womens_Wear,Adidas,High-quality Fashion product. Womens Wear with excellent features for daily use.,2754.43,20,2203.54,2.9,15,0,False,NA,L,24,54,67,True
+PROD0000076,Pro Tablets 143,Electronics,Tablets,Apple,High-quality Electronics product. Tablets with excellent features for daily use.,1944.36,30,1361.05,3.5,113,500,True,NA,L,420,24,5,True
+PROD0000077,Classic Educational 642,Books,Educational,Penguin,High-quality Books product. Educational with excellent features for daily use.,5137.07,10,4623.36,4.5,110,0,False,NA,NA,187,17,38,True
+PROD0000078,Modern Educational 126,Books,Educational,HarperCollins,High-quality Books product. Educational with excellent features for daily use.,850.75,20,680.6,3.4,49,500,True,NA,S,142,28,15,True
+PROD0000079,Smart Non Fiction 936,Books,Non_Fiction,Penguin,High-quality Books product. Non Fiction with excellent features for daily use.,2297.79,0,2297.79,4.5,9,500,True,White,L,12,7,9,True
+PROD0000080,Pro Gym Equipment 129,Sports_Fitness,Gym_Equipment,Reebok,High-quality Sports_Fitness product. Gym Equipment with excellent features for daily use.,216.9,0,216.9,3.3,18,500,True,Black,S,91,6,5,False
+PROD0000081,Smart Tablets 467,Electronics,Tablets,Apple,High-quality Electronics product. Tablets with excellent features for daily use.,1059.65,20,847.72,5.0,22,500,True,Black,S,311,0,4,True
+PROD0000082,Pro Gym Equipment 485,Sports_Fitness,Gym_Equipment,Nike,High-quality Sports_Fitness product. Gym Equipment with excellent features for daily use.,9471.96,30,6630.37,2.9,54,100,True,Blue,M,922,58,23,True
+PROD0000083,Smart Yoga 176,Sports_Fitness,Yoga,Nike,High-quality Sports_Fitness product. Yoga with excellent features for daily use.,522.35,30,365.64,3.8,17,0,False,White,S,343,17,13,False
+PROD0000084,Classic Smartphones 513,Electronics,Smartphones,OnePlus,High-quality Electronics product. Smartphones with excellent features for daily use.,6073.58,20,4858.86,2.2,50,500,True,NA,L,305,17,1,True
+PROD0000085,Premium Smartphones 878,Electronics,Smartphones,Apple,High-quality Electronics product. Smartphones with excellent features for daily use.,320.46,10,288.41,3.3,23,50,True,Multi,M,144,20,3,True
+PROD0000086,Modern Laptops 943,Electronics,Laptops,OnePlus,High-quality Electronics product. Laptops with excellent features for daily use.,31826.92,30,22278.84,2.4,2,0,False,Multi,NA,22,0,44,True
+PROD0000087,Classic Cameras 202,Electronics,Cameras,Apple,High-quality Electronics product. Cameras with excellent features for daily use.,23915.11,0,23915.11,4.7,149,50,True,Multi,XL,90,44,2,True
+PROD0000088,Modern Non Fiction 891,Books,Non_Fiction,HarperCollins,High-quality Books product. Non Fiction with excellent features for daily use.,1102.16,20,881.73,3.6,79,100,True,Black,NA,317,60,7,False
+PROD0000089,Premium Appliances 612,Home_Kitchen,Appliances,Bosch,High-quality Home_Kitchen product. Appliances with excellent features for daily use.,5685.88,20,4548.7,3.3,69,10,True,Multi,M,5,10,35,False
+PROD0000090,Premium Appliances 145,Home_Kitchen,Appliances,Bosch,High-quality Home_Kitchen product. Appliances with excellent features for daily use.,3978.14,10,3580.33,2.5,21,100,True,White,M,66,12,12,True
+PROD0000091,Classic Tablets 259,Electronics,Tablets,OnePlus,High-quality Electronics product. Tablets with excellent features for daily use.,311.09,0,311.09,4.6,3,500,True,Blue,NA,748,7,64,False
+PROD0000092,Premium Decor 795,Home_Kitchen,Decor,Philips,High-quality Home_Kitchen product. Decor with excellent features for daily use.,2597.44,20,2077.95,3.6,9,10,True,Red,M,0,6,77,False
+PROD0000093,Premium Bedding 363,Home_Kitchen,Bedding,IKEA,High-quality Home_Kitchen product. Bedding with excellent features for daily use.,3019.23,0,3019.23,4.1,64,500,True,White,L,56,48,4,True
+PROD0000094,Modern Laptops 307,Electronics,Laptops,Apple,High-quality Electronics product. Laptops with excellent features for daily use.,506.3,30,354.41,3.2,39,100,True,NA,NA,125,7,28,False
+PROD0000095,Elite Furniture 993,Home_Kitchen,Furniture,Philips,High-quality Home_Kitchen product. Furniture with excellent features for daily use.,1702.78,0,1702.78,3.9,21,500,True,NA,NA,38,6,156,True
+PROD0000096,Smart Gym Equipment 442,Sports_Fitness,Gym_Equipment,Decathlon,High-quality Sports_Fitness product. Gym Equipment with excellent features for daily use.,3037.01,10,2733.31,3.9,40,0,False,Blue,NA,92,19,2,True
+PROD0000097,Pro Womens Wear 532,Fashion,Womens_Wear,Adidas,High-quality Fashion product. Womens Wear with excellent features for daily use.,210.64,10,189.58,2.9,17,0,False,Black,S,76,25,18,True
+PROD0000098,Smart Mens Wear 800,Fashion,Mens_Wear,Nike,High-quality Fashion product. Mens Wear with excellent features for daily use.,2161.89,0,2161.89,2.4,43,50,True,Blue,L,101,15,44,False
+PROD0000099,Premium Smartphones 940,Electronics,Smartphones,Apple,High-quality Electronics product. Smartphones with excellent features for daily use.,1758.93,10,1583.04,2.8,1,50,True,Multi,XL,74,4,13,True
+PROD0000100,Classic Fiction 284,Books,Fiction,Penguin,High-quality Books product. Fiction with excellent features for daily use.,2075.75,10,1868.18,2.6,67,50,True,Multi,S,532,13,15,True
+PROD0000101,Modern Tablets 660,Electronics,Tablets,Samsung,High-quality Electronics product. Tablets with excellent features for daily use.,15298.57,30,10709.0,1.8,13,50,True,White,XL,52,41,15,True
+PROD0000102,Pro Educational 579,Books,Educational,Penguin,High-quality Books product. Educational with excellent features for daily use.,227.37,20,181.9,3.6,44,0,False,Red,S,167,12,24,True
+PROD0000103,Smart Footwear 816,Fashion,Footwear,Zara,High-quality Fashion product. Footwear with excellent features for daily use.,2983.13,20,2386.5,4.4,34,500,True,Multi,XL,44,12,21,True
+PROD0000104,Pro Laptops 375,Electronics,Laptops,Apple,High-quality Electronics product. Laptops with excellent features for daily use.,828.79,30,580.15,4.5,38,10,True,NA,XL,376,9,39,True
+PROD0000105,Elite Yoga 261,Sports_Fitness,Yoga,Decathlon,High-quality Sports_Fitness product. Yoga with excellent features for daily use.,844.53,10,760.08,4.8,83,10,True,NA,NA,56,10,34,True
+PROD0000106,Classic Bedding 522,Home_Kitchen,Bedding,IKEA,High-quality Home_Kitchen product. Bedding with excellent features for daily use.,932.02,0,932.02,4.5,42,50,True,Red,S,893,51,1,False
+PROD0000107,Elite Non Fiction 121,Books,Non_Fiction,HarperCollins,High-quality Books product. Non Fiction with excellent features for daily use.,8855.49,0,8855.49,4.7,34,0,False,Multi,NA,247,142,4,True
+PROD0000108,Smart Appliances 751,Home_Kitchen,Appliances,IKEA,High-quality Home_Kitchen product. Appliances with excellent features for daily use.,12782.73,10,11504.46,3.4,265,10,True,White,M,151,17,19,False
+PROD0000109,Pro Furniture 171,Home_Kitchen,Furniture,Bosch,High-quality Home_Kitchen product. Furniture with excellent features for daily use.,1935.39,0,1935.39,4.2,47,0,False,White,L,0,33,26,True
+PROD0000110,Elite Headphones 544,Electronics,Headphones,Sony,High-quality Electronics product. Headphones with excellent features for daily use.,589.01,10,530.11,3.9,74,500,True,White,L,269,33,50,False
+PROD0000111,Elite Bedding 412,Home_Kitchen,Bedding,Philips,High-quality Home_Kitchen product. Bedding with excellent features for daily use.,618.26,20,494.61,4.2,61,0,False,Blue,M,12,43,19,True
+PROD0000112,Classic Outdoor 359,Sports_Fitness,Outdoor,Decathlon,High-quality Sports_Fitness product. Outdoor with excellent features for daily use.,6405.0,0,6405.0,3.8,38,10,True,Red,NA,271,8,0,True
+PROD0000113,Pro Furniture 759,Home_Kitchen,Furniture,Bosch,High-quality Home_Kitchen product. Furniture with excellent features for daily use.,1453.72,30,1017.6,2.9,20,50,True,Black,XL,338,14,8,False
+PROD0000114,Classic Smartphones 561,Electronics,Smartphones,Samsung,High-quality Electronics product. Smartphones with excellent features for daily use.,951.74,0,951.74,3.0,12,0,False,Black,S,398,7,51,True
+PROD0000115,Smart Outdoor 759,Sports_Fitness,Outdoor,Decathlon,High-quality Sports_Fitness product. Outdoor with excellent features for daily use.,1609.75,20,1287.8,4.2,160,500,True,Black,M,138,39,4,True
+PROD0000116,Classic Footwear 339,Fashion,Footwear,Nike,High-quality Fashion product. Footwear with excellent features for daily use.,7510.43,10,6759.39,2.1,11,50,True,White,M,665,8,36,True
+PROD0000117,Smart Appliances 870,Home_Kitchen,Appliances,IKEA,High-quality Home_Kitchen product. Appliances with excellent features for daily use.,18520.56,30,12964.39,4.3,186,50,True,Black,S,139,9,11,False
+PROD0000118,Smart Laptops 988,Electronics,Laptops,OnePlus,High-quality Electronics product. Laptops with excellent features for daily use.,166.61,30,116.63,3.7,241,500,True,Blue,NA,381,82,1,True
+PROD0000119,Elite Womens Wear 142,Fashion,Womens_Wear,Zara,High-quality Fashion product. Womens Wear with excellent features for daily use.,195.78,10,176.2,4.4,42,50,True,Black,S,162,2,0,True
+PROD0000120,Premium Womens Wear 718,Fashion,Womens_Wear,Levis,High-quality Fashion product. Womens Wear with excellent features for daily use.,1516.47,20,1213.18,4.5,30,0,False,Red,S,32,6,7,True
+PROD0000121,Modern Non Fiction 502,Books,Non_Fiction,Penguin,High-quality Books product. Non Fiction with excellent features for daily use.,767.16,20,613.73,4.2,86,500,True,NA,NA,31,33,12,False
+PROD0000122,Classic Gym Equipment 603,Sports_Fitness,Gym_Equipment,Reebok,High-quality Sports_Fitness product. Gym Equipment with excellent features for daily use.,1473.51,0,1473.51,2.8,30,50,True,Red,NA,701,39,33,False
+PROD0000123,Elite Furniture 912,Home_Kitchen,Furniture,IKEA,High-quality Home_Kitchen product. Furniture with excellent features for daily use.,218.42,0,218.42,1.6,36,0,False,NA,XL,435,70,5,True
+PROD0000124,Modern Cameras 561,Electronics,Cameras,Samsung,High-quality Electronics product. Cameras with excellent features for daily use.,421.04,20,336.83,4.2,31,100,True,Blue,L,82,23,27,True
+PROD0000125,Modern Fiction 254,Books,Fiction,Penguin,High-quality Books product. Fiction with excellent features for daily use.,1552.41,10,1397.17,4.6,21,50,True,Black,S,61,26,9,True
+PROD0000126,Modern Gym Equipment 809,Sports_Fitness,Gym_Equipment,Reebok,High-quality Sports_Fitness product. Gym Equipment with excellent features for daily use.,5794.88,30,4056.42,2.8,76,50,True,Black,L,70,26,59,True
+PROD0000127,Smart Non Fiction 564,Books,Non_Fiction,HarperCollins,High-quality Books product. Non Fiction with excellent features for daily use.,1621.69,0,1621.69,4.3,18,0,False,Blue,S,203,3,16,False
+PROD0000128,Pro Gym Equipment 854,Sports_Fitness,Gym_Equipment,Reebok,High-quality Sports_Fitness product. Gym Equipment with excellent features for daily use.,1542.4,30,1079.68,4.5,42,100,True,Blue,NA,266,2,2,True
+PROD0000129,Elite Gym Equipment 912,Sports_Fitness,Gym_Equipment,Nike,High-quality Sports_Fitness product. Gym Equipment with excellent features for daily use.,969.18,30,678.43,2.5,1,50,True,Black,XL,217,4,27,True
+PROD0000130,Modern Bedding 624,Home_Kitchen,Bedding,IKEA,High-quality Home_Kitchen product. Bedding with excellent features for daily use.,2931.85,20,2345.48,3.8,78,500,True,White,XL,0,12,1,True
+PROD0000131,Modern Outdoor 343,Sports_Fitness,Outdoor,Reebok,High-quality Sports_Fitness product. Outdoor with excellent features for daily use.,417.63,10,375.87,4.2,117,100,True,Blue,S,63,0,0,True
+PROD0000132,Elite Non Fiction 284,Books,Non_Fiction,HarperCollins,High-quality Books product. Non Fiction with excellent features for daily use.,2418.66,0,2418.66,3.8,19,500,True,NA,XL,260,24,20,True
+PROD0000133,Smart Outdoor 503,Sports_Fitness,Outdoor,Decathlon,High-quality Sports_Fitness product. Outdoor with excellent features for daily use.,356.03,20,284.82,4.3,14,500,True,White,NA,83,6,15,True
+PROD0000134,Elite Bedding 634,Home_Kitchen,Bedding,IKEA,High-quality Home_Kitchen product. Bedding with excellent features for daily use.,1699.41,20,1359.53,2.4,12,10,True,Blue,S,65,11,3,False
+PROD0000135,Premium Appliances 252,Home_Kitchen,Appliances,Philips,High-quality Home_Kitchen product. Appliances with excellent features for daily use.,3887.65,0,3887.65,3.1,20,0,False,Black,NA,438,1,11,True
+PROD0000136,Premium Fiction 608,Books,Fiction,Penguin,High-quality Books product. Fiction with excellent features for daily use.,1364.69,20,1091.75,4.4,27,10,True,NA,M,258,2,59,True
+PROD0000137,Smart Mens Wear 396,Fashion,Mens_Wear,Levis,High-quality Fashion product. Mens Wear with excellent features for daily use.,449.66,10,404.69,3.6,14,50,True,Red,L,50,1,1,True
+PROD0000138,Elite Mens Wear 563,Fashion,Mens_Wear,Nike,High-quality Fashion product. Mens Wear with excellent features for daily use.,48.1,20,38.48,3.3,10,50,True,NA,XL,249,104,6,True
+PROD0000139,Classic Yoga 425,Sports_Fitness,Yoga,Reebok,High-quality Sports_Fitness product. Yoga with excellent features for daily use.,573.02,30,401.11,3.3,8,100,True,Black,XL,125,93,13,True
+PROD0000140,Classic Cameras 465,Electronics,Cameras,Apple,High-quality Electronics product. Cameras with excellent features for daily use.,709.76,30,496.83,3.2,78,50,True,Blue,M,263,32,0,True
+PROD0000141,Smart Gym Equipment 931,Sports_Fitness,Gym_Equipment,Decathlon,High-quality Sports_Fitness product. Gym Equipment with excellent features for daily use.,4102.4,10,3692.16,2.7,7,10,True,NA,L,75,97,2,True
+PROD0000142,Premium Fiction 453,Books,Fiction,Penguin,High-quality Books product. Fiction with excellent features for daily use.,13620.24,30,9534.17,2.4,9,50,True,NA,XL,237,68,11,True
+PROD0000143,Elite Fiction 453,Books,Fiction,Penguin,High-quality Books product. Fiction with excellent features for daily use.,12064.47,10,10858.02,3.9,118,10,True,Red,M,277,16,42,True
+PROD0000144,Pro Educational 955,Books,Educational,Penguin,High-quality Books product. Educational with excellent features for daily use.,3362.05,20,2689.64,2.7,1,0,False,Multi,XL,347,23,9,True
+PROD0000145,Classic Non Fiction 351,Books,Non_Fiction,Penguin,High-quality Books product. Non Fiction with excellent features for daily use.,286.7,0,286.7,3.8,0,50,True,Black,L,162,23,7,False
+PROD0000146,Classic Educational 410,Books,Educational,Penguin,High-quality Books product. Educational with excellent features for daily use.,370.92,30,259.64,4.8,0,100,True,NA,NA,1,79,25,True
+PROD0000147,Pro Furniture 563,Home_Kitchen,Furniture,Bosch,High-quality Home_Kitchen product. Furniture with excellent features for daily use.,1286.42,20,1029.14,3.6,32,100,True,NA,M,6,48,25,True
+PROD0000148,Modern Mens Wear 766,Fashion,Mens_Wear,Zara,High-quality Fashion product. Mens Wear with excellent features for daily use.,181.87,0,181.87,3.6,111,100,True,Blue,NA,583,26,54,False
+PROD0000149,Smart Educational 148,Books,Educational,HarperCollins,High-quality Books product. Educational with excellent features for daily use.,1019.13,30,713.39,4.8,11,100,True,Black,NA,99,15,16,True
+PROD0000150,Premium Tablets 444,Electronics,Tablets,Apple,High-quality Electronics product. Tablets with excellent features for daily use.,1140.15,10,1026.14,3.7,18,100,True,Red,S,159,50,11,False
+PROD0000151,Premium Tablets 261,Electronics,Tablets,Apple,High-quality Electronics product. Tablets with excellent features for daily use.,101.84,30,71.29,3.5,22,0,False,Multi,S,74,5,15,False
+PROD0000152,Classic Tablets 825,Electronics,Tablets,OnePlus,High-quality Electronics product. Tablets with excellent features for daily use.,1985.43,10,1786.89,2.8,50,100,True,White,M,19,14,52,False
+PROD0000153,Modern Laptops 110,Electronics,Laptops,Sony,High-quality Electronics product. Laptops with excellent features for daily use.,6224.91,20,4979.93,4.2,14,50,True,Blue,S,61,12,6,True
+PROD0000154,Smart Bedding 962,Home_Kitchen,Bedding,Philips,High-quality Home_Kitchen product. Bedding with excellent features for daily use.,316.4,0,316.4,3.6,86,50,True,White,NA,90,7,6,True
+PROD0000155,Modern Smartphones 536,Electronics,Smartphones,Samsung,High-quality Electronics product. Smartphones with excellent features for daily use.,705.54,0,705.54,3.3,61,50,True,NA,S,8,48,3,False
+PROD0000156,Elite Non Fiction 916,Books,Non_Fiction,Penguin,High-quality Books product. Non Fiction with excellent features for daily use.,10383.01,30,7268.11,2.1,23,100,True,Blue,XL,187,19,12,False
+PROD0000157,Smart Gym Equipment 198,Sports_Fitness,Gym_Equipment,Decathlon,High-quality Sports_Fitness product. Gym Equipment with excellent features for daily use.,1179.24,0,1179.24,3.4,112,100,True,Red,S,513,27,0,False
+PROD0000158,Smart Laptops 952,Electronics,Laptops,Sony,High-quality Electronics product. Laptops with excellent features for daily use.,700.7,20,560.56,2.5,53,0,False,NA,NA,396,31,43,False
+PROD0000159,Modern Appliances 411,Home_Kitchen,Appliances,Philips,High-quality Home_Kitchen product. Appliances with excellent features for daily use.,6809.66,0,6809.66,2.0,81,10,True,Black,M,480,3,30,True
+PROD0000160,Classic Furniture 619,Home_Kitchen,Furniture,IKEA,High-quality Home_Kitchen product. Furniture with excellent features for daily use.,8523.72,0,8523.72,4.4,10,0,False,Black,NA,338,3,79,False
+PROD0000161,Classic Tablets 150,Electronics,Tablets,Sony,High-quality Electronics product. Tablets with excellent features for daily use.,432.55,20,346.04,3.2,50,100,True,Blue,L,345,24,19,True
+PROD0000162,Pro Gym Equipment 332,Sports_Fitness,Gym_Equipment,Reebok,High-quality Sports_Fitness product. Gym Equipment with excellent features for daily use.,2787.25,30,1951.07,2.8,57,10,True,NA,XL,226,12,15,False
+PROD0000163,Elite Cameras 839,Electronics,Cameras,Sony,High-quality Electronics product. Cameras with excellent features for daily use.,1324.43,10,1191.99,2.5,21,50,True,Black,M,351,0,17,False
+PROD0000164,Premium Furniture 202,Home_Kitchen,Furniture,Bosch,High-quality Home_Kitchen product. Furniture with excellent features for daily use.,141.03,0,141.03,3.3,45,100,True,Black,NA,335,4,12,True
+PROD0000165,Premium Footwear 468,Fashion,Footwear,Nike,High-quality Fashion product. Footwear with excellent features for daily use.,896.16,20,716.93,4.0,28,100,True,Multi,XL,15,116,40,True
+PROD0000166,Modern Fiction 312,Books,Fiction,HarperCollins,High-quality Books product. Fiction with excellent features for daily use.,1393.51,30,975.46,4.3,29,100,True,Red,XL,142,20,15,True
+PROD0000167,Classic Furniture 950,Home_Kitchen,Furniture,IKEA,High-quality Home_Kitchen product. Furniture with excellent features for daily use.,647.46,20,517.97,2.6,101,10,True,Black,L,28,2,2,False
+PROD0000168,Modern Cameras 740,Electronics,Cameras,Apple,High-quality Electronics product. Cameras with excellent features for daily use.,9585.59,30,6709.91,4.0,43,50,True,Multi,XL,75,15,1,False
+PROD0000169,Pro Non Fiction 870,Books,Non_Fiction,HarperCollins,High-quality Books product. Non Fiction with excellent features for daily use.,863.82,30,604.67,3.2,32,50,True,Blue,S,86,3,0,True
+PROD0000170,Pro Cameras 692,Electronics,Cameras,Apple,High-quality Electronics product. Cameras with excellent features for daily use.,35190.92,0,35190.92,4.2,51,100,True,Red,NA,184,11,20,True
+PROD0000171,Pro Tablets 861,Electronics,Tablets,Apple,High-quality Electronics product. Tablets with excellent features for daily use.,12485.29,10,11236.76,3.4,23,100,True,Blue,NA,228,0,5,False
+PROD0000172,Premium Footwear 984,Fashion,Footwear,Zara,High-quality Fashion product. Footwear with excellent features for daily use.,2665.36,30,1865.75,4.1,1,0,False,Blue,XL,176,2,3,False
+PROD0000173,Premium Non Fiction 317,Books,Non_Fiction,Penguin,High-quality Books product. Non Fiction with excellent features for daily use.,11518.71,10,10366.84,4.6,17,100,True,Multi,L,104,22,3,True
+PROD0000174,Elite Fiction 237,Books,Fiction,HarperCollins,High-quality Books product. Fiction with excellent features for daily use.,4550.98,0,4550.98,1.3,85,50,True,NA,XL,64,28,52,False
+PROD0000175,Pro Footwear 149,Fashion,Footwear,Nike,High-quality Fashion product. Footwear with excellent features for daily use.,1760.83,30,1232.58,3.6,2,0,False,Black,NA,4,5,19,True
+PROD0000176,Classic Furniture 245,Home_Kitchen,Furniture,Philips,High-quality Home_Kitchen product. Furniture with excellent features for daily use.,29631.44,20,23705.15,2.6,31,50,True,Black,S,35,42,6,True
+PROD0000177,Elite Laptops 941,Electronics,Laptops,Sony,High-quality Electronics product. Laptops with excellent features for daily use.,365.27,30,255.69,4.8,97,10,True,White,NA,166,5,2,True
+PROD0000178,Classic Gym Equipment 598,Sports_Fitness,Gym_Equipment,Decathlon,High-quality Sports_Fitness product. Gym Equipment with excellent features for daily use.,15423.97,30,10796.78,4.5,56,50,True,Multi,XL,95,1,7,True
+PROD0000179,Classic Headphones 556,Electronics,Headphones,OnePlus,High-quality Electronics product. Headphones with excellent features for daily use.,246.02,0,246.02,3.7,19,100,True,White,M,127,49,43,True
+PROD0000180,Smart Cameras 585,Electronics,Cameras,Samsung,High-quality Electronics product. Cameras with excellent features for daily use.,2672.22,10,2405.0,4.2,36,50,True,White,XL,179,28,24,True
+PROD0000181,Smart Furniture 457,Home_Kitchen,Furniture,IKEA,High-quality Home_Kitchen product. Furniture with excellent features for daily use.,2302.32,0,2302.32,3.8,21,100,True,Multi,L,4,37,12,True
+PROD0000182,Smart Laptops 185,Electronics,Laptops,Samsung,High-quality Electronics product. Laptops with excellent features for daily use.,93.46,20,74.77,1.9,44,0,False,White,XL,343,54,1,True
+PROD0000183,Classic Footwear 153,Fashion,Footwear,Adidas,High-quality Fashion product. Footwear with excellent features for daily use.,1480.89,20,1184.71,3.5,137,0,False,Black,XL,5,19,16,True
+PROD0000184,Smart Accessories 490,Fashion,Accessories,Adidas,High-quality Fashion product. Accessories with excellent features for daily use.,2048.01,10,1843.21,3.4,19,50,True,Blue,XL,20,17,10,False
+PROD0000185,Modern Fiction 381,Books,Fiction,HarperCollins,High-quality Books product. Fiction with excellent features for daily use.,1833.41,0,1833.41,4.1,18,10,True,NA,NA,26,18,101,True
+PROD0000186,Elite Outdoor 520,Sports_Fitness,Outdoor,Nike,High-quality Sports_Fitness product. Outdoor with excellent features for daily use.,5353.95,30,3747.76,3.3,149,10,True,Multi,M,58,59,24,False
+PROD0000187,Premium Tablets 739,Electronics,Tablets,Apple,High-quality Electronics product. Tablets with excellent features for daily use.,3434.7,10,3091.23,3.6,10,0,False,NA,NA,317,20,33,True
+PROD0000188,Modern Laptops 262,Electronics,Laptops,Samsung,High-quality Electronics product. Laptops with excellent features for daily use.,17695.55,10,15926.0,4.4,21,0,False,Multi,NA,53,23,9,False
+PROD0000189,Modern Decor 802,Home_Kitchen,Decor,Bosch,High-quality Home_Kitchen product. Decor with excellent features for daily use.,90.07,20,72.06,3.2,15,10,True,NA,L,61,4,31,False
+PROD0000190,Premium Accessories 588,Fashion,Accessories,Adidas,High-quality Fashion product. Accessories with excellent features for daily use.,2689.58,0,2689.58,4.1,5,100,True,NA,XL,147,2,10,True
+PROD0000191,Premium Gym Equipment 557,Sports_Fitness,Gym_Equipment,Nike,High-quality Sports_Fitness product. Gym Equipment with excellent features for daily use.,53738.47,10,48364.62,2.7,64,500,True,NA,L,272,25,35,False
+PROD0000192,Pro Fiction 785,Books,Fiction,HarperCollins,High-quality Books product. Fiction with excellent features for daily use.,1103.69,0,1103.69,1.9,10,50,True,Red,L,113,5,34,True
+PROD0000193,Modern Mens Wear 335,Fashion,Mens_Wear,Adidas,High-quality Fashion product. Mens Wear with excellent features for daily use.,950.3,10,855.27,3.1,31,100,True,White,M,127,12,14,True
+PROD0000194,Premium Educational 190,Books,Educational,HarperCollins,High-quality Books product. Educational with excellent features for daily use.,2048.57,0,2048.57,2.9,9,100,True,Red,M,131,24,23,True
+PROD0000195,Smart Bedding 353,Home_Kitchen,Bedding,Bosch,High-quality Home_Kitchen product. Bedding with excellent features for daily use.,1041.59,10,937.43,3.8,91,50,True,Black,M,605,41,35,True
+PROD0000196,Pro Appliances 422,Home_Kitchen,Appliances,Philips,High-quality Home_Kitchen product. Appliances with excellent features for daily use.,171.64,10,154.48,4.1,18,100,True,Blue,L,193,27,0,True
+PROD0000197,Premium Laptops 503,Electronics,Laptops,Samsung,High-quality Electronics product. Laptops with excellent features for daily use.,405.92,0,405.92,4.5,180,500,True,NA,S,548,22,5,True
+PROD0000198,Smart Outdoor 123,Sports_Fitness,Outdoor,Nike,High-quality Sports_Fitness product. Outdoor with excellent features for daily use.,4277.21,10,3849.49,4.2,65,100,True,Blue,NA,60,92,6,True
+PROD0000199,Elite Non Fiction 849,Books,Non_Fiction,Penguin,High-quality Books product. Non Fiction with excellent features for daily use.,339.7,30,237.79,3.3,0,500,True,Blue,L,88,25,8,True
+PROD0000200,Smart Womens Wear 284,Fashion,Womens_Wear,Zara,High-quality Fashion product. Womens Wear with excellent features for daily use.,65459.97,10,58913.97,4.3,155,500,True,Black,L,1635,21,16,False
+PROD0000201,Smart Decor 827,Home_Kitchen,Decor,Philips,High-quality Home_Kitchen product. Decor with excellent features for daily use.,3387.82,30,2371.47,3.4,34,10,True,Black,M,31,9,11,False
+PROD0000202,Smart Laptops 274,Electronics,Laptops,Apple,High-quality Electronics product. Laptops with excellent features for daily use.,7303.69,10,6573.32,2.7,40,500,True,Black,L,547,36,13,True
+PROD0000203,Pro Smartphones 109,Electronics,Smartphones,Apple,High-quality Electronics product. Smartphones with excellent features for daily use.,8776.78,10,7899.1,4.3,12,500,True,NA,XL,279,6,9,True
+PROD0000204,Elite Non Fiction 228,Books,Non_Fiction,HarperCollins,High-quality Books product. Non Fiction with excellent features for daily use.,9976.12,20,7980.9,4.8,7,100,True,Red,NA,118,41,25,False
+PROD0000205,Modern Decor 770,Home_Kitchen,Decor,IKEA,High-quality Home_Kitchen product. Decor with excellent features for daily use.,12902.23,30,9031.56,3.1,131,50,True,Blue,NA,284,33,0,False
+PROD0000206,Modern Outdoor 360,Sports_Fitness,Outdoor,Reebok,High-quality Sports_Fitness product. Outdoor with excellent features for daily use.,13752.77,0,13752.77,4.7,4,0,False,Blue,L,523,2,11,True
+PROD0000207,Classic Bedding 648,Home_Kitchen,Bedding,Bosch,High-quality Home_Kitchen product. Bedding with excellent features for daily use.,6509.07,20,5207.26,3.4,2,50,True,Multi,L,238,35,17,True
+PROD0000208,Classic Educational 978,Books,Educational,HarperCollins,High-quality Books product. Educational with excellent features for daily use.,3209.92,30,2246.94,2.1,232,10,True,Black,M,175,14,0,True
+PROD0000209,Pro Fiction 448,Books,Fiction,Penguin,High-quality Books product. Fiction with excellent features for daily use.,4662.46,0,4662.46,3.5,26,10,True,Blue,NA,109,49,1,True
+PROD0000210,Elite Decor 834,Home_Kitchen,Decor,IKEA,High-quality Home_Kitchen product. Decor with excellent features for daily use.,195.14,0,195.14,4.0,10,0,False,Black,M,39,120,2,False
+PROD0000211,Pro Educational 127,Books,Educational,HarperCollins,High-quality Books product. Educational with excellent features for daily use.,3031.49,20,2425.19,1.8,88,10,True,Black,XL,194,53,4,False
+PROD0000212,Modern Furniture 255,Home_Kitchen,Furniture,IKEA,High-quality Home_Kitchen product. Furniture with excellent features for daily use.,472.55,20,378.04,3.7,13,500,True,Blue,XL,182,30,6,True
+PROD0000213,Pro Accessories 824,Fashion,Accessories,Levis,High-quality Fashion product. Accessories with excellent features for daily use.,5035.43,10,4531.89,4.6,42,100,True,Multi,S,35,97,7,True
+PROD0000214,Modern Decor 592,Home_Kitchen,Decor,Philips,High-quality Home_Kitchen product. Decor with excellent features for daily use.,439.2,20,351.36,4.4,112,10,True,Blue,L,244,58,5,True
+PROD0000215,Elite Furniture 139,Home_Kitchen,Furniture,Philips,High-quality Home_Kitchen product. Furniture with excellent features for daily use.,2707.06,0,2707.06,4.0,8,100,True,Blue,XL,9,13,80,True
+PROD0000216,Elite Educational 373,Books,Educational,Penguin,High-quality Books product. Educational with excellent features for daily use.,46270.66,0,46270.66,4.6,28,500,True,NA,S,462,0,18,True
+PROD0000217,Premium Non Fiction 281,Books,Non_Fiction,Penguin,High-quality Books product. Non Fiction with excellent features for daily use.,1924.6,20,1539.68,3.8,114,500,True,Red,M,230,23,11,False
+PROD0000218,Modern Headphones 693,Electronics,Headphones,Samsung,High-quality Electronics product. Headphones with excellent features for daily use.,3547.07,20,2837.66,4.6,122,100,True,Blue,NA,54,66,26,True
+PROD0000219,Smart Cameras 565,Electronics,Cameras,Apple,High-quality Electronics product. Cameras with excellent features for daily use.,5758.68,20,4606.94,4.5,12,500,True,Blue,XL,125,29,6,True
+PROD0000220,Modern Footwear 542,Fashion,Footwear,Zara,High-quality Fashion product. Footwear with excellent features for daily use.,2633.48,0,2633.48,3.1,14,100,True,Red,S,515,7,38,False
+PROD0000221,Modern Smartphones 447,Electronics,Smartphones,Sony,High-quality Electronics product. Smartphones with excellent features for daily use.,2434.06,0,2434.06,2.9,25,10,True,NA,XL,87,5,57,False
+PROD0000222,Smart Decor 514,Home_Kitchen,Decor,Bosch,High-quality Home_Kitchen product. Decor with excellent features for daily use.,4910.97,30,3437.68,3.7,20,0,False,NA,L,13,4,0,True
+PROD0000223,Elite Fiction 655,Books,Fiction,HarperCollins,High-quality Books product. Fiction with excellent features for daily use.,591.98,30,414.39,4.5,2,500,True,Multi,XL,211,58,5,True
+PROD0000224,Smart Cameras 197,Electronics,Cameras,Sony,High-quality Electronics product. Cameras with excellent features for daily use.,1849.96,10,1664.96,2.6,30,100,True,Black,XL,253,14,8,True
+PROD0000225,Elite Headphones 242,Electronics,Headphones,Sony,High-quality Electronics product. Headphones with excellent features for daily use.,1239.3,20,991.44,4.0,15,100,True,NA,L,111,33,65,True
+PROD0000226,Pro Accessories 555,Fashion,Accessories,Levis,High-quality Fashion product. Accessories with excellent features for daily use.,755.74,0,755.74,4.6,0,500,True,Black,M,478,20,9,False
+PROD0000227,Smart Womens Wear 973,Fashion,Womens_Wear,Adidas,High-quality Fashion product. Womens Wear with excellent features for daily use.,9526.35,30,6668.44,4.3,42,10,True,NA,XL,60,12,21,True
+PROD0000228,Premium Bedding 209,Home_Kitchen,Bedding,Bosch,High-quality Home_Kitchen product. Bedding with excellent features for daily use.,327.47,10,294.72,4.4,12,0,False,Red,XL,248,27,19,False
+PROD0000229,Premium Non Fiction 858,Books,Non_Fiction,Penguin,High-quality Books product. Non Fiction with excellent features for daily use.,412.69,20,330.15,4.1,54,100,True,Black,XL,32,14,20,False
+PROD0000230,Modern Footwear 794,Fashion,Footwear,Zara,High-quality Fashion product. Footwear with excellent features for daily use.,3233.4,0,3233.4,2.9,19,0,False,Multi,NA,94,48,10,True
+PROD0000231,Pro Cameras 742,Electronics,Cameras,Samsung,High-quality Electronics product. Cameras with excellent features for daily use.,2959.23,20,2367.38,3.3,7,100,True,Blue,XL,64,11,29,True
+PROD0000232,Classic Non Fiction 979,Books,Non_Fiction,HarperCollins,High-quality Books product. Non Fiction with excellent features for daily use.,2389.39,30,1672.57,2.6,37,10,True,Black,S,0,2,5,True
+PROD0000233,Elite Fiction 570,Books,Fiction,HarperCollins,High-quality Books product. Fiction with excellent features for daily use.,17279.44,30,12095.61,4.6,15,10,True,Multi,XL,115,23,1,True
+PROD0000234,Elite Cameras 719,Electronics,Cameras,Sony,High-quality Electronics product. Cameras with excellent features for daily use.,8137.37,20,6509.9,4.4,2,0,False,Blue,NA,202,84,2,True
+PROD0000235,Classic Accessories 667,Fashion,Accessories,Zara,High-quality Fashion product. Accessories with excellent features for daily use.,23461.56,0,23461.56,2.8,14,100,True,NA,L,55,18,44,False
+PROD0000236,Classic Headphones 957,Electronics,Headphones,Apple,High-quality Electronics product. Headphones with excellent features for daily use.,554.43,0,554.43,2.6,30,0,False,Red,S,326,45,7,True
+PROD0000237,Classic Educational 154,Books,Educational,HarperCollins,High-quality Books product. Educational with excellent features for daily use.,179.21,20,143.37,3.9,46,500,True,Black,M,71,27,29,True
+PROD0000238,Smart Yoga 295,Sports_Fitness,Yoga,Nike,High-quality Sports_Fitness product. Yoga with excellent features for daily use.,1590.46,30,1113.32,3.2,56,100,True,Red,M,160,153,49,True
+PROD0000239,Modern Yoga 432,Sports_Fitness,Yoga,Nike,High-quality Sports_Fitness product. Yoga with excellent features for daily use.,1252.46,0,1252.46,3.6,19,0,False,Blue,NA,24,43,0,True
+PROD0000240,Smart Decor 257,Home_Kitchen,Decor,Bosch,High-quality Home_Kitchen product. Decor with excellent features for daily use.,2617.54,30,1832.28,3.8,6,500,True,Black,NA,79,0,0,True
+PROD0000241,Premium Cameras 782,Electronics,Cameras,Sony,High-quality Electronics product. Cameras with excellent features for daily use.,7629.75,30,5340.82,4.0,8,500,True,Blue,L,63,41,6,True
+PROD0000242,Classic Smartphones 858,Electronics,Smartphones,Apple,High-quality Electronics product. Smartphones with excellent features for daily use.,396.58,10,356.92,3.9,70,500,True,NA,XL,80,1,91,True
+PROD0000243,Elite Decor 136,Home_Kitchen,Decor,IKEA,High-quality Home_Kitchen product. Decor with excellent features for daily use.,32701.45,30,22891.02,4.8,163,100,True,Blue,NA,19,4,22,True
+PROD0000244,Premium Appliances 478,Home_Kitchen,Appliances,IKEA,High-quality Home_Kitchen product. Appliances with excellent features for daily use.,3345.03,20,2676.02,4.3,19,500,True,Blue,L,58,6,2,True
+PROD0000245,Smart Furniture 111,Home_Kitchen,Furniture,IKEA,High-quality Home_Kitchen product. Furniture with excellent features for daily use.,360.3,20,288.24,3.9,2,50,True,Black,M,75,24,3,False
+PROD0000246,Pro Fiction 340,Books,Fiction,HarperCollins,High-quality Books product. Fiction with excellent features for daily use.,3835.52,0,3835.52,4.6,2,0,False,Blue,S,3,1,15,False
+PROD0000247,Pro Cameras 843,Electronics,Cameras,Samsung,High-quality Electronics product. Cameras with excellent features for daily use.,1286.97,10,1158.27,1.6,17,50,True,Blue,S,754,21,21,True
+PROD0000248,Modern Non Fiction 290,Books,Non_Fiction,HarperCollins,High-quality Books product. Non Fiction with excellent features for daily use.,681.21,0,681.21,3.8,63,500,True,Multi,NA,417,61,28,False
+PROD0000249,Modern Appliances 135,Home_Kitchen,Appliances,Bosch,High-quality Home_Kitchen product. Appliances with excellent features for daily use.,3417.35,0,3417.35,4.4,44,10,True,Blue,NA,41,48,2,True
+PROD0000250,Premium Headphones 535,Electronics,Headphones,OnePlus,High-quality Electronics product. Headphones with excellent features for daily use.,7145.63,0,7145.63,3.7,45,50,True,NA,S,456,19,13,False
+PROD0000251,Pro Non Fiction 378,Books,Non_Fiction,Penguin,High-quality Books product. Non Fiction with excellent features for daily use.,218.28,30,152.8,3.3,24,500,True,White,M,100,51,16,False
+PROD0000252,Classic Fiction 480,Books,Fiction,Penguin,High-quality Books product. Fiction with excellent features for daily use.,4813.02,30,3369.11,3.2,16,0,False,Red,NA,133,13,0,False
+PROD0000253,Smart Furniture 979,Home_Kitchen,Furniture,Philips,High-quality Home_Kitchen product. Furniture with excellent features for daily use.,280.12,20,224.1,3.3,52,100,True,White,M,100,31,14,True
+
